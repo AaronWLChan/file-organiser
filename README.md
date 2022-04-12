@@ -5,4 +5,4 @@ Simple Python File Organiser
 ```python
 python organise.py 'dir'
 ```
-**Note:** ```categories.py is``` must be in the same directory as ```organise.py```.
+**Note:** ```categories.py``` must be in the same directory as ```organise.py```.
